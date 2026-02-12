@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Nyumppu  
 - 👀 I’m interested in all sorts of languages, both human and computer ones.
-- 🌱 I’m currently learning semantic HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on web page developement projects.
-- 📫 How to reach me:
-e-mail: yumppu.uke@gmail.com
+- 🌱 I’m currently learning C.
 
 <!---
 Nyumppu/Nyumppu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
